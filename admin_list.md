@@ -16,7 +16,7 @@
 | さ  | し  | す  |せ |そ |
 
 | 人數<br>統計 | 稱呼<br>(必填) | email<br> (必填) | discord<br>(必填) | line稱呼<br>(必填) | Trello<br>(必填) | FB<br>(選填) | github帳號 |
-|:--:|:--:|:--:|--|:--:|:--:|:--:|:--:|
+|:--:|:--:|--|--|:--:|:--:|:--:|:--:|
 |1|宇真|neko.jean@gmail.com|宇真#8704|宇真|宇真(nekojean)|Yujen chung|            |
 |2|柚桑|issacsopp@gmail.com|柚桑#4122|柚桑|楊景貴(issacblender)|楊景貴|            |
 |3|stan|stan.stz@gmail.com|stansu#1376|stan蘇子敬|stansu| stan蘇子敬|stansu|
