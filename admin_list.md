@@ -7,5 +7,4 @@
 | 5        | 阿彥         | ayen.tw@gmail.com<br>dhclub.tw@yahoo.com.tw | aYen#7949         | aYen           | aYen Ho            | Cayden Ho   |            |
 | 6        | Bobby      | abc6562014@gmail.com                        | DEARS#3540        | 邱奕橙            | 邱奕橙                | 邱奕橙         |            |
 | 7        | Edgar      | edgar.umbra@gmail.com                       | Edgar Umbra #5300 | Edgar          | Edgar Umbra        | Edgar Lai   |            |
-
-|8         | A          | B       |                                   |                   |                |
+|8         | A          | B       |                                   |                   |                |                    |             |            |
