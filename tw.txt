@@ -52,7 +52,7 @@
         'synchBool':'同步布林物件',
         'makePreset':'建立/清空預設',
         'cutAgain':'再切',
-        'cleanBooleanApplication':'布林支撐',
+        'cleanBooleanApplication':'布林優化',
         'editCall':'編輯',
         'technicalDisplay':'技術顯示'
     }
